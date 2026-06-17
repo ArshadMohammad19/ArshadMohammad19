@@ -69,14 +69,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshadMohammad19&show_icons=true&theme=dark&hide_border=true&bg_color=14181F&title_color=E8843D&icon_color=5FA8A0&text_color=EDEAE2" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshadMohammad19&theme=dark&hide_border=true&background=14181F&ring=E8843D&fire=E8843D&currStreakLabel=E8843D" width="48%" />
-</p>
-
----
 
 ### 🌱 Currently
 
